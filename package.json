@@ -1,0 +1,28 @@
+{
+  "name": "tugas-1-ppl-praktikum",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Skywalks567/Tugas-1-PPL-Praktikum#readme",
+  "bugs": {
+    "url": "https://github.com/Skywalks567/Tugas-1-PPL-Praktikum/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skywalks567/Tugas-1-PPL-Praktikum.git"
+  },
+  "license": "ISC",
+  "author": "Raymond Frans Dodi Situmorang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
