@@ -90,3 +90,5 @@ app.listen(port, () => {
   console.log(`Music storage app listening on port ${port}`)
 })
 
+module.exports = app;
+
